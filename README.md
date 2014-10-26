@@ -1,5 +1,4 @@
-KioskBrowser 
-by Mohammad Saifuddin Sairin
+KioskBrowser
 ============
 
 - A simple lock down browser which will disable all key stroke+functions (including CTRL+ALT+DEL)
