@@ -1,0 +1,8 @@
+C:\Users\r0xz\Documents\Visual Studio 2012\Projects\Kiosk\ExamBrowser\bin\Debug\Prestariang Kiosk.exe
+C:\Users\r0xz\Documents\Visual Studio 2012\Projects\Kiosk\ExamBrowser\bin\Debug\Prestariang Kiosk.pdb
+C:\Users\r0xz\Documents\Visual Studio 2012\Projects\Kiosk\ExamBrowser\bin\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\r0xz\Documents\Visual Studio 2012\Projects\Kiosk\ExamBrowser\obj\Debug\Kiosk.MainWindow.resources
+C:\Users\r0xz\Documents\Visual Studio 2012\Projects\Kiosk\ExamBrowser\obj\Debug\Kiosk.Properties.Resources.resources
+C:\Users\r0xz\Documents\Visual Studio 2012\Projects\Kiosk\ExamBrowser\obj\Debug\Kiosk.csproj.GenerateResource.Cache
+C:\Users\r0xz\Documents\Visual Studio 2012\Projects\Kiosk\ExamBrowser\obj\Debug\Prestariang Kiosk.exe
+C:\Users\r0xz\Documents\Visual Studio 2012\Projects\Kiosk\ExamBrowser\obj\Debug\Prestariang Kiosk.pdb
